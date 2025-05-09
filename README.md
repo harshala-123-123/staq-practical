@@ -1,5 +1,4 @@
-# staq-
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,6 +8,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+  
+<a href="module1.html">Go to Module 1</a>
+<a href="module2.html">Go to Module 2</a>
+
 
   <!-- Dark Mode Toggle -->
   <div class="toggle-container">
